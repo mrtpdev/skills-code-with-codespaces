@@ -1,7 +1,6 @@
 {
   "name": "Universal - Latest",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
-    "postCreateCommand": "bash .devcontainer/postCreate.sh",
   "features": {
     "ghcr.io/georgofenbeck/features/thefuck-homebrew:1": {},
     "ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {
